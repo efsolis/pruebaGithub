@@ -21,7 +21,7 @@ int main() {
         cin >> opcion;
 
         if (opcion >= 1 && opcion <= 4) {
-            cout << "Ingresa el primer número: ";
+            cout << "Ingresa el número 1: ";
             cin >> num1;
             cout << "Ingresa el segundo número: ";
             cin >> num2;
